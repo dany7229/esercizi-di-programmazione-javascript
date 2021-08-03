@@ -12,3 +12,10 @@
 
   http://www.imparareaprogrammare.it
 */
+
+
+var sec=14600;
+var min=sec\60;
+var hours=min\60;
+console.log(min);
+console.log(hours);
